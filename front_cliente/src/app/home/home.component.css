@@ -1,0 +1,9 @@
+.linkNoticia{
+    cursor: pointer;
+    text-decoration: none;
+    color: #fff;
+}
+
+.linkNoticia:hover{
+    text-decoration: underline;
+}
